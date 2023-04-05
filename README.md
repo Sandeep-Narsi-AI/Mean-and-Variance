@@ -75,7 +75,7 @@ print ("The Standard deviation of arrival from feeder is %.3F"%SD)
 
 # Output : 
 
-![input](input.png)
+![input](input.png)<br>
 ![output](output.png)
 
 # Result :
